@@ -1,0 +1,4 @@
+sudo shutdown-h now
+Evm pc-
+sh lsblk
+pc[monetary] shut
